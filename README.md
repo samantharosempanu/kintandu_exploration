@@ -6,6 +6,6 @@ Starting with a few sentences and audio from a native speaker.
 
 Goals:
 
-* discovering language patterns
-* initial stopword list
+* discover language patterns
+* create initial stopword list
 * create preprocessing methods
