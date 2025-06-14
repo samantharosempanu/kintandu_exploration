@@ -8,4 +8,3 @@ Goals:
 
 * discover language patterns
 * create initial stopword list
-* create preprocessing methods
